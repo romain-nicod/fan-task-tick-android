@@ -1,0 +1,28 @@
+Fan-Task-Tick for Android
+Copyright (c) 2026 ai-gmented.pm
+
+This work is licensed under the Creative Commons Attribution 4.0
+International License. The full text is in LICENSE, and a summary is at
+https://creativecommons.org/licenses/by/4.0/
+
+It covers the Fan-Task-Tick Android app published in this repository's
+releases. This repository holds no source code: only the signed APKs, their
+SHA256SUMS and the signing certificate's fingerprint.
+
+BASED ON
+--------
+Based on kickoff by Romain Nicod
+(https://github.com/romain-nicod/kickoff), licensed under CC BY 4.0.
+The Android app started from the Time-Task-Tick Android shell, by the same
+author, and was adapted into a client of a Fan-Task-Tick server.
+
+THIRD-PARTY MATERIAL
+--------------------
+Shipped inside the APK, each under its own terms:
+
+- The Kotlin standard library, by JetBrains s.r.o. and Kotlin Programming
+  Language contributors: Apache License 2.0
+  (https://www.apache.org/licenses/LICENSE-2.0).
+
+- The colours of the AI-GMENTED design system (the ai_gmented-design gem):
+  CC BY 4.0.
